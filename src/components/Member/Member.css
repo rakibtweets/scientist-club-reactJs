@@ -1,0 +1,11 @@
+.member__img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+}
+.members {
+  display: flex;
+  justify-content: start;
+  align-items: flex-end;
+  gap: 0.5em;
+}
