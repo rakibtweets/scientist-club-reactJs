@@ -37,7 +37,7 @@ const Scientist = (props) => {
             <strong>Discovered: </strong>
             {famousInvention}
           </p>
-          <p className="m-0 pb-1">
+          <p className="">
             <strong>Salary:</strong> $ {salary}
           </p>
         </div>

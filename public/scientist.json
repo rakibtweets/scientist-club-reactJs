@@ -17,7 +17,7 @@
     "lifeSpan": "(1879-1955 AD)",
     "salary": 1780000,
     "description": "Albert Einstein was a German-born theoretical physicist, widely acknowledged to be one of the greatest physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics..",
-    "role": "Theoretical physicist & Mathematician",
+    "role": "Theoretical Physicist & Mathematician",
     "image": "https://i.pinimg.com/originals/4f/bf/e9/4fbfe9cb6f0f4186ed193e041d1f88bd.jpg",
     "country": "Germany",
     "age": 76,
@@ -49,7 +49,7 @@
   },
   {
     "id": 5,
-    "name": "Marie Curie Sklodowska ",
+    "name": "Marie Curie ",
     "lifeSpan": "(1867-1934 AD)",
 
     "salary": 650000,
@@ -67,7 +67,7 @@
 
     "salary": 12000000,
     "description": "Thomas Alva Edison was an American inventor and businessman who has been described as America's greatest inventor. He developed many devices in fields such as electric power generation, mass communication, sound recording, and motion pictures",
-    "role": "Invention",
+    "role": "Inventior, Physicist & Engineer",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Thomas_Edison2.jpg",
     "country": "America",
     "age": 84,
@@ -75,7 +75,7 @@
   },
   {
     "id": 7,
-    "name": "Michael Faraday ",
+    "name": "Michael Faraday",
     "lifeSpan": "(1791-1867 AD)",
 
     "salary": 1900000,
@@ -88,7 +88,7 @@
   },
   {
     "id": 8,
-    "name": "Galileo Galilei ",
+    "name": "Galileo Galilei",
     "lifeSpan": "(1564-1642 AD)",
 
     "salary": 2000000,
@@ -114,7 +114,7 @@
   },
   {
     "id": 10,
-    "name": "Aristotle ",
+    "name": "Aristotle",
     "lifeSpan": "(384-322 BC)",
 
     "salary": 558000,
