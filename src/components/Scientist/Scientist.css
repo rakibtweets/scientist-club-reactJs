@@ -8,7 +8,7 @@
   background: #ffff;
   box-shadow: 5px 5px 5px grey;
   border-radius: 20px;
-  transition: 0.5s;
+  transition: 0.3s;
 }
 .icon {
   font-size: 2.5em;
@@ -19,6 +19,16 @@
 }
 .card__container:hover .icon {
   color: white;
+}
+.card__container:hover .card-btn {
+  background-color: white;
+  color: #3578e5;
+  outline: none;
+  border: none;
+}
+.card-btn:focus {
+  outline: none;
+  border: none;
 }
 
 .media__icon {

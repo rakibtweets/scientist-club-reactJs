@@ -45,9 +45,9 @@ const Scientist = (props) => {
           <button
             onClick={() => props.handleAddtoCart(props.scientist)}
             href="#0"
-            className="btn btn-primary card-btn"
+            className="btn btn-primary fw-bold card-btn"
           >
-            {cartIcon} add to cart
+            {cartIcon} Add To Cart
           </button>
         </div>
         <div className="media__icon mb-3">
