@@ -4,7 +4,7 @@ import './Member.css';
 const Member = (props) => {
   const { image, name } = props.member;
   return (
-    <div className="members py-1">
+    <div className="members p-3 text-white">
       <img className="member__img" src={image} alt="" />
       <p>{name} </p>
     </div>

@@ -8,7 +8,7 @@ const Header = () => {
       <p className="fw-bold">
         World best scientist is in only club they gonna discover the known
       </p>
-      <h2 className="fw-bold">Budget: 1 BILLION</h2>
+      <h2 className="fw-bold">Budget: 1 Billion</h2>
     </div>
   );
 };
