@@ -3,10 +3,9 @@
 ## Project Title
 
 <br />
-<p align="center">
   <h1 align="center"><a href="https://scientist-club-rakibtweets.netlify.app/">Greatest Scientist Club</a></h1>
 
-  <!-- TABLE OF CONTENTS -->
+  <!-- Languages and Technologies -->
 
 ## Languages and Technologies that I have learned and applied to my projects
 
@@ -17,3 +16,13 @@
 - [Node Packe Manager (NPM)](#npm)
 - [Yarn](#yarn)
 - [Git and GitHub](#git)
+
+## Project Details
+
+- [Scientist cards are shown in three column](#threeColumn)
+- [Details of each scientist has been shown in the card](#cardDetails)
+- [Event handler in buttons](#eventHandler)
+- [Summation of total price on button click](#summation)
+- [Showing member name and images when price is added in card](#member-details)
+- [Font awesome icon is used in button using external package](#font-awesome)
+- [Social media icon using external packages](#font-awesome)
