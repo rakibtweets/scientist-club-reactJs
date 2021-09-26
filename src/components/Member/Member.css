@@ -9,9 +9,7 @@
   margin: 1em auto;
   display: flex;
   align-items: center;
-  /* border-radius: 20px 20px; */
   gap: 0.5em;
   background: #ffff;
-  /* box-shadow: 5px 5px 5px grey; */
   border-radius: 20px;
 }

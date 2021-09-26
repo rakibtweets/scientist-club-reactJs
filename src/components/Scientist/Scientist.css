@@ -4,14 +4,25 @@
   border-radius: 50%;
 }
 .card__container {
-  height: 510px;
+  height: 600px;
   background: #ffff;
   box-shadow: 5px 5px 5px grey;
   border-radius: 20px;
   transition: 0.5s;
 }
+.icon {
+  font-size: 2.5em;
+}
 .card__container:hover {
   background-color: #3578e5;
-  /* background: #f06292; */
   color: white;
+}
+.card__container:hover .icon {
+  color: white;
+}
+.media__icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
 }
