@@ -4,7 +4,7 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 import './Scientist.css';
 
 const Scientist = (props) => {
-  const { name, age, role, salary, country, image, famousInvention } =
+  const { name, age, role, salary, country, image, famousInvention, lifeSpan } =
     props.scientist;
   const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />;
   return (
@@ -14,9 +14,10 @@ const Scientist = (props) => {
           <img className="card__img" src={image} alt="scientist-img" />
         </div>
         <div className="card-body text-start p-3">
-          <h5 className="text-center fw-bold">
-            <small>{name}</small>
-          </h5>
+          <h5 className="text-center fw-bold">{name}</h5>
+          <h6 className="text-center fw-bold">
+            <small>{lifeSpan}</small>
+          </h6>
           <p className="m-0 pb-1">Profession: {role}</p>
           <p className="m-0 pb-1">age: {age}</p>
           <p className="m-0 pb-1">Country: {country}</p>

@@ -17,7 +17,7 @@ const Cart = (props) => {
       <h4 className="fw-bold">
         {memberIcon} Member added: {cart.length}
       </h4>
-      <h6 className="fw-bold">Total price: $ {total}</h6>
+      <h5 className="fw-bold">Total price: $ {total}</h5>
       <div className="members__container mt-3">
         {cart.map((member) => (
           <Member key={member.id} member={member} />

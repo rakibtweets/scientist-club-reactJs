@@ -1,7 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Nikola Tesla (1856–1943)",
+    "name": "Nikola Tesla",
+    "lifeSpan": "(1856–1943)",
     "salary": 1750000,
     "description": "Nikola Tesla was a Serbian-American inventor, electrical engineer, mechanical engineer, and futurist best known for his contributions to the design of the modern alternating current electricity supply system.",
     "role": "American inventor",
@@ -12,7 +13,8 @@
   },
   {
     "id": 2,
-    "name": "Albert Einstein (1879-1955 AD)",
+    "name": "Albert Einstein ",
+    "lifeSpan": "(1879-1955 AD)",
     "salary": 1780000,
     "description": "Albert Einstein was a German-born theoretical physicist, widely acknowledged to be one of the greatest physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics..",
     "role": "theoretical physicist & Mathematician",
@@ -23,7 +25,8 @@
   },
   {
     "id": 3,
-    "name": "Sir Isaac Newton (1643-1727 AD)",
+    "name": "Sir Isaac Newton ",
+    "lifeSpan": "(1643-1727 AD)",
     "salary": 1500000,
     "description": "Sir Isaac Newton PRS was an English mathematician, physicist, astronomer, theologian, and author who is widely recognised as one of the greatest mathematicians, physicists and most influential scientists of all time",
     "role": "Mathematician & Physicist",
@@ -34,7 +37,8 @@
   },
   {
     "id": 4,
-    "name": "Louis Pasteur (1822-1895 AD)",
+    "name": "Louis Pasteur ",
+    "lifeSpan": "(1822-1895 AD)",
     "salary": 890000,
     "description": "Louis Pasteur ForMemRS was a French chemist and microbiologist renowned for his discoveries of the principles of vaccination, microbial fermentation, and pasteurization.",
     "role": "Chemist and Microbiologist",
@@ -45,7 +49,9 @@
   },
   {
     "id": 5,
-    "name": "Marie Curie Sklodowska (1867-1934 AD)",
+    "name": "Marie Curie Sklodowska ",
+    "lifeSpan": "(1867-1934 AD)",
+
     "salary": 650000,
     "description": "Marie Salomea Skłodowska Curie, born Maria Salomea Skłodowska, was a Polish and naturalized-French physicist and chemist who conducted pioneering research on radioactivity.",
     "role": "Chemist and Physicist",
@@ -56,7 +62,9 @@
   },
   {
     "id": 6,
-    "name": "Thomas Alva Edison (1847-1931 AD)",
+    "name": "Thomas Alva Edison ",
+    "lifeSpan": "(1847-1931 AD)",
+
     "salary": 12000000,
     "description": "Thomas Alva Edison was an American inventor and businessman who has been described as America's greatest inventor. He developed many devices in fields such as electric power generation, mass communication, sound recording, and motion pictures",
     "role": "Invention",
@@ -67,7 +75,9 @@
   },
   {
     "id": 7,
-    "name": "Michael Faraday (1791-1867 AD)",
+    "name": "Michael Faraday ",
+    "lifeSpan": "(1791-1867 AD)",
+
     "salary": 1900000,
     "description": "Michael Faraday FRS was an English scientist who contributed to the study of electromagnetism and electrochemistry. His main discoveries include the principles underlying electromagnetic induction, diamagnetism and electrolysis.",
     "role": "Inventor, Physicist & Chemist",
@@ -78,7 +88,9 @@
   },
   {
     "id": 8,
-    "name": "Galileo Galilei (1564-1642 AD)",
+    "name": "Galileo Galilei ",
+    "lifeSpan": "(1564-1642 AD)",
+
     "salary": 2000000,
     "description": "Galileo di Vincenzo Bonaiuti de' Galilei was an Italian astronomer, physicist and engineer, sometimes described as a polymath, from Pisa. Galileo has been called the father of observational astronomy, the father of modern physics",
     "role": " Philosopher, Astronomer & Mathematician",
@@ -89,7 +101,9 @@
   },
   {
     "id": 9,
-    "name": "Archimedes (287-212 BC)",
+    "name": "Archimedes ",
+    "lifeSpan": "(287-212 BC)",
+
     "salary": 2680000,
     "description": "Archimedes of Syracuse was a Greek mathematician, physicist, engineer, astronomer, and inventor. Although few details of his life are known, he is regarded as one of the leading scientists in classical antiquity.",
     "role": " Philosopher, Astronomer & Mathematician",
@@ -100,7 +114,9 @@
   },
   {
     "id": 10,
-    "name": "Aristotle (384-322 BC)",
+    "name": "Aristotle ",
+    "lifeSpan": "(384-322 BC)",
+
     "salary": 558000,
     "description": "Aristotle was a Greek philosopher and polymath during the Classical period in Ancient Greece. Taught by Plato, he was the founder of the Lyceum, the Peripatetic school of philosophy, and the Aristotelian tradition.",
     "role": " Philosophe",

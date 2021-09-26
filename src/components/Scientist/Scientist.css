@@ -1,8 +1,18 @@
 .card__img {
-  width: 150px;
-  height: 150px;
+  width: 130px;
+  height: 130px;
   border-radius: 50%;
 }
 .card__container {
   height: 510px;
+  background: #ffff;
+  box-shadow: 5px 5px 30px grey;
+  border-radius: 20px;
+  transition: 0.5s;
+}
+.card__container:hover {
+  /* transform: scale(1.1); */
+  background-color: #3578e5;
+  /* background: #f06292; */
+  color: white;
 }

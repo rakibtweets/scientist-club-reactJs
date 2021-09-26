@@ -16,7 +16,7 @@ const Main = () => {
     setCart(newCart);
   };
   return (
-    <div className="main__container row g-4 mt-3 ">
+    <div className="main__container row g-3 mt-3 ">
       <div className="scientist__container col-8">
         <div className="row g-3 mx-3">
           {scientists.map((scientist) => (
