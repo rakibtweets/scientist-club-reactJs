@@ -23,10 +23,8 @@
 .card__container:hover .card-btn {
   background-color: white;
   color: #3578e5;
-  outline: none;
-  border: none;
 }
-.card-btn:focus {
+.card-btn {
   outline: none;
   border: none;
 }
