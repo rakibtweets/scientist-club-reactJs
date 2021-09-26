@@ -45,7 +45,7 @@ const Scientist = (props) => {
           <button
             onClick={() => props.handleAddtoCart(props.scientist)}
             href="#0"
-            className="btn btn-primary"
+            className="btn btn-primary card-btn"
           >
             {cartIcon} add to cart
           </button>

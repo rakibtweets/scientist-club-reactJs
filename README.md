@@ -3,7 +3,7 @@
 ## Project Title
 
 <br />
-  <h1 align="center"><a href="https://scientist-club-rakibtweets.netlify.app/">Greatest Scientist Club</a></h1>
+  <h1 align="center"><a target="_blank" href="https://scientist-club-rakibtweets.netlify.app/">Greatest Scientist Club</a></h1>
 
   <!-- Languages and Technologies -->
 
