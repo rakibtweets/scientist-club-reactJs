@@ -15,7 +15,7 @@ const Cart = (props) => {
   return (
     <div className="cart text-center ">
       <h4 className="fw-bold">
-        {memberIcon} Member added: {cart.length}{' '}
+        {memberIcon} Member added: {cart.length}
       </h4>
       <h6 className="fw-bold">Total price: $ {total}</h6>
       <div className="members__container mt-3">

@@ -22,15 +22,15 @@ const Scientist = (props) => {
           <p className="m-0 pb-1">Country: {country}</p>
           <p className="m-0 pb-1">Discovered: {famousInvention}</p>
           <p className="m-0 pb-1">Salary: $ {salary}</p>
-          <div className="">
-            <button
-              onClick={() => props.handleAddtoCart(props.scientist)}
-              href="#0"
-              className="btn btn-primary mb-auto"
-            >
-              {cartIcon} add to cart
-            </button>
-          </div>
+        </div>
+        <div className="text-center pb-4">
+          <button
+            onClick={() => props.handleAddtoCart(props.scientist)}
+            href="#0"
+            className="btn btn-primary mb-auto"
+          >
+            {cartIcon} add to cart
+          </button>
         </div>
       </div>
     </div>

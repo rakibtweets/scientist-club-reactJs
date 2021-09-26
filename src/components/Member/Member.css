@@ -6,7 +6,6 @@
 .members {
   margin-top: 0.5em;
   display: flex;
-  justify-content: start;
   align-items: flex-end;
   border-radius: 20px 20px;
   gap: 0.5em;
