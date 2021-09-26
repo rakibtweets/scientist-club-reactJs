@@ -1,7 +1,10 @@
 <!-- PROJECT Title -->
+
+## Project Title
+
 <br />
 <p align="center">
-  <h3 align="center"><a href="https://scientist-club-rakibtweets.netlify.app/">Greatest Scientist Club</a></h3>
+  <h1 align="center"><a href="https://scientist-club-rakibtweets.netlify.app/">Greatest Scientist Club</a></h1>
 
   <!-- TABLE OF CONTENTS -->
 
