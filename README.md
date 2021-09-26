@@ -8,8 +8,12 @@
 
   <!-- TABLE OF CONTENTS -->
 
-## Assignment Details
+## Languages and Technologies that I have learned and applied to my projects
 
-- [Created project about greatest scientist in the world](#created-project)
-- [Details for individual scientis](#scientist)
-- [five properies of every scientis has been shown](#scientist)
+- [Visual Studio Code](#visula-studio-code)
+- [Javascript(es6)](#js-es6)
+- [ReactJs](#ReactJs)
+- [Bootstrap 5](#bootstrap5)
+- [Node Packe Manager (NPM)](#npm)
+- [Yarn](#yarn)
+- [Git and GitHub](#git)
