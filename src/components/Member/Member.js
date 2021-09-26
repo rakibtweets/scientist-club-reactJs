@@ -4,9 +4,11 @@ import './Member.css';
 const Member = (props) => {
   const { image, name } = props.member;
   return (
-    <div className="members p-3 text-white">
+    <div className="members p-3 fw-bold">
       <img className="member__img" src={image} alt="" />
-      <p> {name} </p>
+      <div className="text-start ps-3">
+        <h5> {name} </h5>
+      </div>
     </div>
   );
 };

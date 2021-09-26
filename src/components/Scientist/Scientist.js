@@ -13,16 +13,27 @@ const Scientist = (props) => {
         <div className="d-flex justify-content-center p-2">
           <img className="card__img" src={image} alt="scientist-img" />
         </div>
-        <div className="card-body text-start p-3">
+        <div className="card-body text-start ps-3">
           <h5 className="text-center fw-bold">{name}</h5>
           <h6 className="text-center fw-bold">
             <small>{lifeSpan}</small>
           </h6>
-          <p className="m-0 pb-1">Profession: {role}</p>
-          <p className="m-0 pb-1">age: {age}</p>
-          <p className="m-0 pb-1">Country: {country}</p>
-          <p className="m-0 pb-1">Discovered: {famousInvention}</p>
-          <p className="m-0 pb-1">Salary: $ {salary}</p>
+          <p className="m-0 pb-1">
+            <strong>Profession:</strong> {role}
+          </p>
+          <p className="m-0 pb-1">
+            <strong>Age:</strong> {age}
+          </p>
+          <p className="m-0 pb-1">
+            <strong>Country:</strong> {country}
+          </p>
+          <p className="m-0 pb-1">
+            <strong>Discovered: </strong>
+            {famousInvention}
+          </p>
+          <p className="m-0 pb-1">
+            <strong>Salary:</strong> $ {salary}
+          </p>
         </div>
         <div className="text-center pb-4">
           <button

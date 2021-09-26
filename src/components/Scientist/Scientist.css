@@ -6,12 +6,11 @@
 .card__container {
   height: 510px;
   background: #ffff;
-  box-shadow: 5px 5px 30px grey;
+  box-shadow: 5px 5px 5px grey;
   border-radius: 20px;
   transition: 0.5s;
 }
 .card__container:hover {
-  /* transform: scale(1.1); */
   background-color: #3578e5;
   /* background: #f06292; */
   color: white;
